@@ -15,7 +15,6 @@ Online documentation, which includes examples, can be found at: http://godoc.org
 package main
 
 import (
-	. "github.com/reiver/strm-head"
 	. "github.com/reiver/strm-csv"
 	. "github.com/reiver/strm-head"
 	. "github.com/reiver/strm-stdout"

@@ -27,7 +27,6 @@ A more complete example, using the suggest dot import, is:
 	package main
 	
 	import (
-		. "github.com/reiver/strm-head"
 		. "github.com/reiver/strm-csv"
 		. "github.com/reiver/strm-head"
 		. "github.com/reiver/strm-stdout"
