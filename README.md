@@ -1,6 +1,6 @@
 # strm-head
 
-A driver for the **go-strm** Go programming language library, that provides the **HEAD** Beginner command.
+A driver for the **go-strm** Go programming language library, that provides the **HEAD** command.
 
 **HEAD** returns rows from the beginning of the data table stream.
 
