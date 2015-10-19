@@ -22,7 +22,7 @@ which can be useful to people who use IDEs to write code (for autocomplete) and 
 reduce errors at compile time (by using a pre-defined constant rather than a string literal,
 so that you get a compile time error, rather than a runtime error, for a typo).
 
-A more complete example, using the suggest dot import, is:
+A more complete example, using the recommended dot import, is:
 
 	package main
 	
