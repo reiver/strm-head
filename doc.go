@@ -1,6 +1,8 @@
 /*
 A driver for the go-strm library, that provides the HEAD Beginner command.
 
+HEAD returns rows from the beginning of the data table stream.
+
 YOU SHOULD ONLY IMPORT THIS PACKAGE USING EITHER A DOT IMPORT OR AN UNDERSCORE IMPORT.
 
 (The package is named "verboten" on purpose to discourage people from importing it by name.)
